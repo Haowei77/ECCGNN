@@ -37,7 +37,6 @@ This code is implemented with the anaconda environment:
 * The experimental data is compressed in file `./datasets/datasets.rar`, where `FJ_contents.csv` and `FL_contents.csv` contain the features of each node V in area FJ and FL separately, `FJ_edges.csv` and `FL_edges.csv` contain the information about edges E in both area.
 * The `label` field represents different node labels, '1' means landslide samples, '4' means nonlandslide samples, Others represent unlabeled nodes.
 * `FJ_contents_raw.txt` and `FL_contents_raw.txt` contain orginal geographic unit features.
-* The data is sensitive and confidential so we only provide few part of them for formating of these files.
 
 
 ## Usage
