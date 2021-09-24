@@ -47,5 +47,5 @@ This code is implemented with the anaconda environment:
 
 
 ## Contact
-To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/Haowei77/ECCGNN/issues).
+To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/Sunshine96223/ECCGNN/issues).
 
